@@ -10,5 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 specially based on da AI developing
-specially based.
+- specially based.
+
  
